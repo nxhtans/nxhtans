@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Olá 👋, Eu sou o Nathan Santos</h1>
 <h3 align="center">Explorador em Desenvolvimento Web Full Stack</h3>
 
@@ -20,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxhtans&show_icons=true&theme=dark&locale=pt-Br" alt="nxhtans" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxhtans&theme=dark" alt="nxhtans" /></p>
+</center>
