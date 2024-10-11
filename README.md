@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nxhtans" alt="nxhtans" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nxhtans&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="nxhtans" />
   </a>
 </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
   <a href="https://twitter.com/nxhtans" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nxhtans" height="30" width="40" />
   </a>
@@ -21,10 +21,13 @@
   <a href="https://instagram.com/nxhtans" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nxhtans" height="30" width="40" />
   </a>
+  <a href="https://wa.me/5554991560143" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -43,9 +46,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40"/>
+</a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
@@ -81,13 +84,14 @@
   </a>
 </p>
 
-<h3 align="left">Apoie-me:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/nxhtans">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nxhtans" />
-  </a>
-</p>
-<br><br>
+<div align="center">
+  <h3>Apoie-me:</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/nxhtans">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nxhtans" />
+    </a>
+  </p>
+</div>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nxhtans&show_icons=true&theme=dark&locale=pt-Br" alt="nxhtans" />
