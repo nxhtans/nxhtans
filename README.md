@@ -113,6 +113,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nxhtans&show_icons=true&theme=dark&locale=pt-Br" alt="nxhtans" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxhtans&theme=dark" alt="nxhtans" />
-</p>
