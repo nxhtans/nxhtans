@@ -2,12 +2,12 @@
 <h3 align="center">Estudante de Desenvolvimento Web | Backend em Foco</h3>
 
 <p align="center">
-  Atualmente sou estudante de desenvolvimento e estou me especializando em backend com Java. Apesar de ainda não ter experiência comprovada na área com trabalhos formais ou estágios, possuo um amplo conhecimento em PHP, Laravel, bancos de dados, Docker e tecnologias de desenvolvimento web. Estou sempre buscando aprender e evoluir para ingressar no mercado de TI.
+  Atualmente sou estudante de desenvolvimento e estou me especializando em backend com Java/PHP. Apesar de ainda não ter experiência comprovada na área com trabalhos formais ou estágios, possuo um amplo conhecimento em PHP, Laravel, bancos de dados, Docker e tecnologias de desenvolvimento web. Estou sempre buscando aprender e evoluir para ingressar no mercado de TI.
 </p>
 
 <h3 align="center">Status Atual:</h3>
 <p align="center">
-  🌟 Estudando e aprofundando meus conhecimentos em Java Backend<br>
+  🌟 Estudando e aprofundando meus conhecimentos em Java/PHP Backend<br>
   🔧 Trabalhando em projetos próprios para desenvolver habilidades práticas<br>
   💪 Buscando oportunidades para ingressar no mercado de TI<br>
   💪 Aberto a conexões e novas oportunidades
